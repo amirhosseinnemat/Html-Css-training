@@ -1,0 +1,38 @@
+.catone {
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 300px;
+    height: 300px;
+    border: 10px groove fuchsia;
+    border-radius: 100%;
+    background-image: url("../../img/cat.JPG");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.cattwo {
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 300px;
+    height: 300px;
+    border: 10px dashed orangered;
+    border-radius: 100%;
+    background-image: url("../../img/cat.JPG");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.catthree {
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 300px;
+    height: 300px;
+    border: 10px dotted yellow;
+    border-radius: 80px;
+    background-image: url("../../img/cat.JPG");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}

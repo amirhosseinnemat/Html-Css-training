@@ -1,0 +1,26 @@
+div{
+    width: 100px;
+    height: 100px;
+    border: 1px solid #ff145c;
+}
+
+.catone{
+    width: 200px;
+    height: 200px;
+    border: 10px solid orangered;
+}
+.cattwo{
+    width: 200px;
+    height: 200px;
+    border: 10px groove orangered;
+}
+.catthree{
+    width: 200px;
+    height: 200px;
+    border: 10px dashed orangered;
+}
+.catfour{
+    width: 200px;
+    height: 200px;
+    border: 10px dotted orangered;
+}
