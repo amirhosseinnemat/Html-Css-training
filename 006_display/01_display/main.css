@@ -1,0 +1,39 @@
+/*display property help us to control how an element show in a page*/
+
+div {
+    width: 200px;
+    height: 200px;
+    background-image: url("../../img/cat.JPG");
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 1px solid #ff145c;
+    display: inline-block;
+}
+
+.catone {
+    width: 200px;
+    height: 200px;
+    border: 10px solid orangered;
+    display: block;
+}
+
+.cattwo {
+    width: 200px;
+    height: 200px;
+    border: 10px groove orangered;
+    display: block;
+}
+
+.catthree {
+    width: 200px;
+    height: 200px;
+    border: 10px dashed orangered;
+    display: block;
+}
+
+.catfour {
+    width: 200px;
+    height: 200px;
+    border: 10px dotted orangered;
+    display: block;
+}
