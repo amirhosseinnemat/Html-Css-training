@@ -3,15 +3,40 @@
 .first {
     width: 200px;
     height: 200px;
-    background-image: url("../../img/cat.JPG");
-    background-size: cover;
-    background-repeat: no-repeat;
-    border: 3px solid #ff145c;
-    display: inline-block;
+    /*background-image: url("../../img/cat.JPG");*/
+    /*background-size: cover;*/
+    /*background-repeat: no-repeat;*/
+    border: 1px solid #ff145c;
+    padding: 30px;
+    margin: 20px;
     box-sizing: border-box;
+
+}
+.else {
+    width: 200px;
+    height: 200px;
+    /*background-image: url("../../img/cat.JPG");*/
+    /*background-size: cover;*/
+    /*background-repeat: no-repeat;*/
+    border: 10px solid #ff145c;
+    padding: 30px;
+    margin: 20px;
+    box-sizing: border-box;
+
 }
 
-div{
+.any{
+    width: 200px;
+    height: 200px;
+    /*background-image: url("../../img/cat.JPG");*/
+    /*background-size: cover;*/
+    /*background-repeat: no-repeat;*/
+    border: 10px solid #ff145c;
+    padding: 30px;
+    margin: 20px;
+}
+
+.second{
     width: 200px;
     height: 200px;
     background-image: url("../../img/cat.JPG");
