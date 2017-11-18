@@ -9,7 +9,7 @@
     border: 2px double darkorchid;
     border-radius: 100%;
     /*display none disable showing the tag*/
-    /*display: none;*/
+    display: none;
 }
 
 .inline {
