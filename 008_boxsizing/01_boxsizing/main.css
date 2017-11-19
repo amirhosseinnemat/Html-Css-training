@@ -43,39 +43,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     border: 3px solid #ff145c;
+    border-radius: 20px;
     display: inline-block;
 
-}
-
-img {
-    padding: 20px;
-    margin: 40px;
-}
-
-.catone {
-    width: 200px;
-    height: 200px;
-    border: 10px solid orangered;
-    display: block;
-}
-
-.cattwo {
-    width: 200px;
-    height: 200px;
-    border: 10px groove orangered;
-    display: block;
-}
-
-.catthree {
-    width: 200px;
-    height: 200px;
-    border: 10px dashed orangered;
-    display: block;
-}
-
-.catfour {
-    width: 200px;
-    height: 200px;
-    border: 10px dotted orangered;
-    display: block;
 }
