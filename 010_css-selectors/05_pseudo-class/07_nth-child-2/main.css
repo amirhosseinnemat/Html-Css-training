@@ -1,0 +1,31 @@
+body{
+    font-size: 30px;
+}
+
+
+li:nth-last-child(3){
+    background-color: yellow;
+}
+
+li:nth-child(3){
+    color: #ff03ad;
+}
+
+article:only-child{
+    color: navy;
+    font-weight: bold;
+}
+
+
+/*nth-child(an+b)*/
+
+li:nth-child(3n+2){
+    color: #00c420;
+}
+
+/*
+Try changing the selector to select each of the following:
+8, 18, 28, 38, ...
+9, 12, 15, ..., 39, ...
+3, 12, 21, 30, 39, ...
+*/
