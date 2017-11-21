@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+}
+
+a {
+
+    font-size: 100px;
+}
+
+a:focus {
+    color: #ff9a00;
+}
