@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    font-size: 35px;
+}
+
+p {
+    color: #a5164f;
+}
+
+[contenteditable] {
+    color: #4f27c5;
+    border: 3px dotted darkblue;
+}
+
+a {
+    display: block;
+    text-decoration: none;
+}
+
+[target="_blank"] {
+    color: #ff1f00;
+}
+
+[target="_self"] {
+    color: #5327ed;
+}
