@@ -1,0 +1,58 @@
+body{
+    width: 80%;
+    margin: 0 auto;
+}
+.ch{
+    border: 5px dotted darkred;
+    font-size: 35px;
+}
+/*--------------------------------*/
+.p1 {
+    color: blue;
+    font-style: italic;
+    font-size: 25px;
+    border:5px groove #ffb318;
+    font-weight: bold;
+}
+
+#paragraph {
+    color: green;
+}
+
+/*---------------------------*/
+span{
+    color: brown;
+    font-size: 40px;
+}
+#spn{
+    color: deeppink;
+}
+/*----------------------------------*/
+
+.header2{
+    border: 10px groove deeppink;
+}
+h2{
+    border: 10px groove green;
+}
+
+/*------------------------------------*/
+a:hover{
+    color: green;
+}
+
+[target]:hover{
+    color: #ffa500;
+}
+
+/*-----------------------------------------*/
+
+.header1{
+    color: darkred;
+    font-size: 30px;
+}
+
+[align]{
+    color: darkblue;
+    font-size: 35px;
+}
