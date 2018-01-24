@@ -1,0 +1,24 @@
+
+body{
+    width: 80%;
+    margin: 0 auto;
+}
+div{
+
+    margin: 20vh auto;
+    border: 5px solid #ca0000;
+    width: 500px;
+    height: 500px;
+    font-family: 'Roboto Slab', serif;
+    font-weight: bold;
+    color: rgb(111,000,000);
+    line-height: 500px;
+    font-size: 3rem;
+    text-align: center;
+    font-variant: small-caps;
+    word-spacing: 10px;
+    letter-spacing: 5px;
+
+    /*text-shadow: x y blur color;*/
+    text-shadow: 2px 2px 5px red;
+}
