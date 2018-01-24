@@ -22,3 +22,19 @@ div{
     /*text-shadow: x y blur color;*/
     text-shadow: 2px 2px 5px red;
 }
+
+p{
+    text-indent: 5rem;
+    font-size: 2rem;
+    text-transform: lowercase;
+    text-align: left;
+    color: green;
+
+}
+p:first-letter{
+    font-family: sans-serif;
+    font-weight: bold;
+	font-size:3rem;
+    text-transform: uppercase;
+    color: lawngreen;
+}
