@@ -38,3 +38,7 @@ p:first-letter{
     text-transform: uppercase;
     color: lawngreen;
 }
+
+span{
+  text-decoration: underline line-through overline;
+}
