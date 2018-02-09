@@ -1,0 +1,51 @@
+header {
+    width: 800px;
+    height: 300px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    line-height: 300px;
+    font-family: sans-serif;
+    font-size: 5rem;
+    color: #da0000;
+    text-shadow: 5px 5px 5px #a50000;
+    letter-spacing: 5px;
+}
+
+div {
+    margin: 2px;
+    width: 100px;
+    height: 100px;
+    background-color: #ffc430;
+    border: 2px solid #470000;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+div:nth-child(even):hover {
+    background-color: blue;
+    cursor: pointer;
+}
+
+div:nth-child(odd):hover {
+    background-color: #ca0000;
+    cursor: pointer;
+}
+
+div:nth-child(3n+0):hover {
+    background-color: #00bc00;
+    cursor: pointer;
+}
+
+div:nth-child(25):hover {
+    background-color: deeppink;
+    cursor: crosshair;
+}
+
+
