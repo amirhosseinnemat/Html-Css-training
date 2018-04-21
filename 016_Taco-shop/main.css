@@ -1,0 +1,28 @@
+body{
+    width: 80%;
+    margin: 100px auto;
+    border: 3px solid green;
+}
+nav{
+    border: 2px solid orange;
+    width: 30%;
+    display: inline-block;
+    box-sizing: border-box;
+    /*-------!!!!!!!--------*/
+    vertical-align: top;
+}
+main {
+    border: 2px solid red;
+    display: inline-block;
+    width: 70%;
+    box-sizing: border-box;
+
+}
+li{
+    list-style: none;
+    font-size:2rem;
+}
+
+p{
+    font-size: 20px;
+}
