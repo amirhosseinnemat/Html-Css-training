@@ -1,0 +1,19 @@
+body {
+    width: 800px;
+    margin: 100px auto;
+}
+
+figure {
+    border: 10px groove #a09ba8;
+    width: 800px;
+
+}
+
+figcaption {
+    padding: 5px;
+    color: #2a007c;
+    font-size: 1.5rem;
+    text-align: center;
+    /*text-shadow: x y blur color;*/
+    text-shadow: 2px 2px 7px darkblue;
+}
