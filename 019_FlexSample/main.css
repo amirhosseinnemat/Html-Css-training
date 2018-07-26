@@ -1,0 +1,23 @@
+html , body {
+    padding: 0;
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    border: 10px solid #bb90be;
+    background-image: url("19.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+p{
+    font-size: 6rem;
+    text-align: center;
+    color: #f5dd82;
+}
