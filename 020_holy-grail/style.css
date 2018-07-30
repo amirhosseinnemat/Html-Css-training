@@ -1,0 +1,28 @@
+body{
+    font-weight: bold;
+}
+
+header , footer , article , aside{
+    padding: 20px;
+    text-align: center;
+}
+
+
+
+header{
+    background-color: aqua;
+}
+article{
+    text-align: left;
+    background-color: mediumpurple;
+}
+aside:nth-child(3){
+    background-color: yellow;
+}
+aside:nth-child(4){
+    background-color: red;
+}
+footer{
+    background-color: royalblue;
+}
+
