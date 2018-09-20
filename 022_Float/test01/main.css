@@ -1,0 +1,36 @@
+body {
+    width: 80%;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    clear: both;
+    font-size: 4rem;
+    color: royalblue;
+    text-shadow:   3px  3px  4px #5c7ce3;
+}
+
+#right {
+    float: right;
+    box-shadow: -5px 5px 5px #a09ba8;
+    border-radius: 5px;
+}
+
+p {
+    font-size: 25px;
+}
+
+@media (max-width: 800px) {
+   div{
+       display: flex;
+       flex-direction: column;
+   }
+    h1:hover{
+        color: #2a007c;
+    }
+    img{
+        width: 100%;
+    }
+
+}
