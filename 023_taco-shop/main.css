@@ -1,0 +1,29 @@
+body{
+    max-width: 800px;
+    margin: 50px auto;
+    border: 5px solid orange;
+    display: table;
+}
+nav , main{
+    border: 5px solid #ffc722;
+}
+
+nav{
+    display: table-cell;
+    vertical-align: top;
+    box-sizing: border-box;
+    width: 25%;
+    height: 100%;
+}
+
+main{
+    display: table-cell;
+    box-sizing: border-box;
+    width: 75%;
+    padding: 20px;
+}
+
+ul{
+    list-style-type: circle;
+
+}
